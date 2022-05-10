@@ -4,8 +4,11 @@ ENTREGA INTERMEDIA DEL PROYECTO FINAL
 # pro-inmo
 
 admin/
+
 saludo/
+
 AppInmo/busquedadeambientes
+
 
 La web permitiría subir datos basicos de una propiedad para ponerla en alquiler/comprar/vender.
 
